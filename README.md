@@ -4,7 +4,7 @@
 
 ## Quick Start
 
-you will need Node.js on your machine [download from here]('https://nodejs.org/en/download/')
+you will need Node.js on your machine ['download from here']('https://nodejs.org/en/download/')
 
 Add your MONGO_URI to the "config/config.env" file, please use your own API, checkout MongoDB Atlas [here](https://www.mongodb.com/cloud/atlas)
 
