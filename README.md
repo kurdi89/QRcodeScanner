@@ -4,14 +4,14 @@
 
 ## Quick Start
 
-you will need Node.js on your machine ['download from here']('https://nodejs.org/en/download/')
+you will need Node.js on your machine download from [here](https://nodejs.org/en/download/)
 
 Add your MONGO_URI to the "config/config.env" file, please use your own API, checkout MongoDB Atlas [here](https://www.mongodb.com/cloud/atlas)
 
-replace `<passoword>` with your DB password, *may not be the same not your atlas password, you can generate passwords from atlas*
+replace `<username>:<passoword>` with your DB password, *may not be the same not your atlas password, you can generate passwords from atlas*
 
 makesure to whitlelist your current IP on atlas or assign it to any IP address `0.0.0.0`
-[[Tutorial] Getting started with the MongoDB Atlas free tier - Free MongoDB hosting]('https://www.youtube.com/watch?v=_d8CBOtadRA')
+[Tutorial : Getting started with the MongoDB Atlas free tier - Free MongoDB hosting](https://www.youtube.com/watch?v=_d8CBOtadRA)
 
 Start :
 
